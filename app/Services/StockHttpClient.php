@@ -31,7 +31,6 @@ class StockHttpClient implements IStockHttpClient
             $response->throw();
             return $response->json();
         } catch (RequestException $e) {
-            dd($e->getMessage());
             Log::error('Failed to get stock data', ['message' => $e->getMessage()]);
             return [];
         }
