@@ -1,0 +1,1 @@
+Please find all necessary instructions for the assignment [here](https://docs.google.com/document/d/1aNAl3d3grMrQl3nC55wGgElcTlouHEeDxappxK4rLtk/edit?usp=sharing).
